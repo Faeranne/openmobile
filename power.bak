@@ -46,22 +46,4 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-$Sheet
-S 1000 1150 2050 1300
-U 59398D66
-F0 "WiFi" 60
-F1 "wifi.sch" 60
-$EndSheet
-$Sheet
-S 3700 1150 2850 1300
-U 59398D69
-F0 "Power" 60
-F1 "power.sch" 60
-$EndSheet
-$Sheet
-S 6850 1150 2350 1300
-U 59398D6C
-F0 "CPU" 60
-F1 "cpu.sch" 60
-$EndSheet
 $EndSCHEMATC

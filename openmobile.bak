@@ -47,7 +47,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Sheet
-S 1150 1150 2050 1300
+S 1000 1150 2050 1300
 U 59398D66
 F0 "WiFi" 60
 F1 "wifi.sch" 60
